@@ -1,6 +1,5 @@
 ### Hi there 👋, MrNarman
 #### Building the Future, one line of code at a time
-![Building the Future, one line of code at a time]
 
 I'm a tech fanatic who is constantly mesmerized by the ever-evolving world of software technologies. My passion lies in programming and development, where I love to turn ideas into reality through code.
 
