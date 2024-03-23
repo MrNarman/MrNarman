@@ -1,11 +1,10 @@
 ### Hi there 👋, MrNarman
 #### Building the Future, one line of code at a time
-![Building the Future, one line of code at a time](https://github.com/MrNarman/MrNarman/blob/main/GN-myLOGO.png)
+![Building the Future, one line of code at a time]
 
 I'm a tech fanatic who is constantly mesmerized by the ever-evolving world of software technologies. My passion lies in programming and development, where I love to turn ideas into reality through code.
 
-- 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning web development from The Odin Project https://www.theodinproject.com/ 
+- 🔭 Let's code 👋
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrNarman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrNarman)  
