@@ -1,14 +1,36 @@
-### Hi there 👋, MrNarman
-#### Building the Future, one line of code at a time
+### Hi there! 👋
 
-I'm a tech fanatic who is constantly mesmerized by the ever-evolving world of software technologies. My passion lies in programming and development, where I love to turn ideas into reality through code.
+#### Crafting the Future, One Line of Code at a Time 🚀
+
+I'm Godrick Narman, a Computer Technology student at Maseno University, with a keen interest in AI, robotics and cyber security. My goal is to leverage cutting-edge technologies to create innovative solutions that can make a difference in the world.
+
 
 - 🔭 Let's code 👋
 
+### 🔧 What I’m Currently Working On
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrNarman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrNarman)  
+- Creating an instagram bot
+### 🛠️ What I'm Learning
+
+- **Programming Language:** Python
+- **Version Control:** Git
+- **Operating System:** Linux
+
+
+### 📬 Get In Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/godrick-mwani-856415262/)
+- 🐦 [Twitter](https://twitter.com/MrNarman)
+- ✉️ [Email](mailto:godricknarman21@gmail.com)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNarman)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true)  
+### 🔥 GitHub Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true)
+
+### 💡 Quote of the Day
+
+_"In the quest for balance within, we unlock the power to shape the extraordinary."_
+
 
