@@ -23,11 +23,16 @@ I'm Godrick Narman, a Computer Technology student at Maseno University, with a k
 - 🐦 [Twitter](https://twitter.com/MrNarman)
 - ✉️ [Email](mailto:godricknarman21@gmail.com)
 
+## My GitHub Stats✨
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true&theme=nightowl&count_private=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNarman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNarman&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true)
+<!--
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square" align="right" />
+</div>
+-->
 
 ### 💡 Quote of the Day
 
