@@ -7,11 +7,12 @@ I'm Godrick Narman, a Computer Technology student at Maseno University, with a k
 
 - 🔭 Let's code 👋
 
-### 🔧 What I’m Currently Working On
+<!-- ### 🔧 What I’m Currently Working On
 
 - Creating an instagram bot
 ### 🛠️ What I'm Learning
-
+-->
+## My Learning Stack
 - **Programming Language:** Python
 - **Version Control:** Git
 - **Operating System:** Linux
