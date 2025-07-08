@@ -48,6 +48,8 @@ I wield code like a divine tool — shaping worlds, solving problems, and bendin
 ## 🔥 Eternal Streaks (Contribution Trail)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark&hide_border=true)
+<br clear="both">
+<img src="https://raw.githubusercontent.com/MrNarman/MrNarman/output/snake.svg" alt="Snake animation" />
 
 ---
 
