@@ -2,10 +2,9 @@
 
 name: Generate Snake
 
-# Runs every 6 hours + allows manual run
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -13,19 +12,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the code
       - uses: actions/checkout@v2
 
-      # Generate snake SVG with dark background
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (Dark Mode)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MrNarman
           outputs: |
             ./dist/snake.svg
           svg_background: '#0d1117'
+          color_snake: '#8b5cf6'  # Purple snake color
+          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'  # GitHub dark levels
 
-      # Deploy to output branch
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
