@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake (Dark Mode)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MrNarman
           outputs: |
             ./dist/snake.svg
-            ./dist/snake.gif
+          svg_background: '#0d1117'  # GitHub dark background
 
       - name: Push generated snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
