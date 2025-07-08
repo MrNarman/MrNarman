@@ -51,6 +51,7 @@ I wield code like a divine tool — shaping worlds, solving problems, and bendin
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MrNarman/MrNarman/output/snake.svg" alt="Snake animation" />
 
+
 ---
 
 ## 💡 Oracle's Whisper  
