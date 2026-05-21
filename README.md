@@ -20,37 +20,35 @@ I wield code like a divine tool — shaping worlds, solving problems, and bendin
 
 ## 📡 Join the Pantheon (Summon Me)
 
-<div align="left">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
   <a href="https://www.linkedin.com/in/godrick-mwani-856415262/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="linkedin.png" alt="LinkedIn" />
   </a>
   
   <a href="https://twitter.com/MrNarman">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="Xtwitter.png" alt="Twitter" />
   </a>
   
   <a href="mailto:godricknarman21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="gmail.png" alt="Email" />
   </a>
 
 </div>
 
 ---
-
-## 📊 Divine Insight (GitHub Stats)
+[![MrNarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman)](https://github.com/MrNarman/github-readme-stats)
+<!-- ## 📊 Divine Insight (GitHub Stats)
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true&theme=nightowl&count_private=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNarman&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
 
 ---
 
-## 🔥 Eternal Streaks (Contribution Trail)
+<!-- ## 🔥 Eternal Streaks (Contribution Trail)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark&hide_border=true)
-<!--
-![snake animation](https://github.com/MrNarman/MrNarman/blob/output/snake.svg)
--->
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark&hide_border=true) -->
+
 ![GitHub Snake dark](https://github.com/MrNarman/MrNarman/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
@@ -61,5 +59,4 @@ _"In the quest for balance within, we unlock the power to shape the extraordinar
 <!-- 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square" align="right" />
-</div>
--->
+</div> -->
