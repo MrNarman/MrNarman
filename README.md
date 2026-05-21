@@ -37,17 +37,16 @@ I wield code like a divine tool — shaping worlds, solving problems, and bendin
 </div>
 
 ---
-[![MrNarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman)](https://github.com/MrNarman/github-readme-stats)
-<!-- ## 📊 Divine Insight (GitHub Stats)
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNarman&show_icons=true&theme=nightowl&count_private=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNarman&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square" align="right" />
+</div>
+
+## 📊 Divine Insight (GitHub Stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats)
 
 ---
-
-<!-- ## 🔥 Eternal Streaks (Contribution Trail)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark&hide_border=true) -->
 
 ![GitHub Snake dark](https://github.com/MrNarman/MrNarman/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
@@ -56,7 +55,3 @@ I wield code like a divine tool — shaping worlds, solving problems, and bendin
 ## 💡 Oracle's Whisper  
 _"In the quest for balance within, we unlock the power to shape the extraordinary."_
 
-<!-- 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square" align="right" />
-</div> -->
