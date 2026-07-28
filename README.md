@@ -51,13 +51,13 @@ Dragons do not flatter their riders — they test them. So too does code test th
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats) -->
-
 🐦 *Ravens received:* ![visitors](https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square)
 
 ### 🏆 Trophies of the Realm
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
