@@ -49,7 +49,9 @@ Dragons do not flatter their riders — they test them. So too does code test th
 
 ## 📜 The Grand Maester's Ledger (GitHub Stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats) -->
 
 🐦 *Ravens received:* ![visitors](https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square)
 
