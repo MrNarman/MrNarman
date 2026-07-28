@@ -57,8 +57,9 @@ Dragons do not flatter their riders — they test them. So too does code test th
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+[![trophy](https://github-trophies.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/lucthienphong1120/github-trophies)
 </div>
 
 ![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
