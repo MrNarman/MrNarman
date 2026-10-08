@@ -38,7 +38,7 @@ I'm passionate about **Robotics**, **Artificial Intelligence**, and **Machine Le
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=MrNarman&style=flat-square)
 
