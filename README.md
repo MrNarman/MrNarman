@@ -11,19 +11,24 @@ I'm passionate about **Robotics**, **Artificial Intelligence**, and **Machine Le
 ---
 
 ## 🛠️ Tech Stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+</div>
+
+
 ---
 
 ## 📫 Connect With Me
-
+<div align="center">
 <a href="https://www.linkedin.com/in/godrick-mwani-856415262/"><img src="linkedin.png" alt="LinkedIn" /></a>
 <a href="https://twitter.com/MrNarman"><img src="Xtwitter.png" alt="Twitter" /></a>
 <a href="mailto:godricknarman21@gmail.com"><img src="gmail.png" alt="Email" /></a>
+</div>
 
 ---
 
