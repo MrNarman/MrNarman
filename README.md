@@ -1,6 +1,5 @@
-<div align="left">
+<!-- <div align="left">
 
-<!-- <img src="mrnarman.jpeg" alt="Godrick Narman" width="160" /> -->
 ![mrnarman.jpeg](mrnarman.jpeg)
 
 # Hi, I'm Godrick Narman 👋
@@ -9,6 +8,31 @@
 
 I'm passionate about Robotics, Artificial Intelligence, and Machine Learning, and I like using code to solve real problems.
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/godrick-mwani-856415262/"><img src="linkedin.png" alt="LinkedIn" height="36" /></a>
+<a href="https://twitter.com/MrNarman"><img src="Xtwitter.png" alt="X (Twitter)" height="36" /></a>
+<a href="mailto:godricknarman21@gmail.com"><img src="gmail.png" alt="Email" height="36" /></a>
+
+</div> 
+-->
+
+<div align="left">
+
+![mrnarman.jpeg](mrnarman.jpeg)
+
+# Hi, I'm Godrick Narman 👋
+
+**Computer Technology graduate · Aspiring ML/AI Engineer**
+
+</div>
+
+I'm working toward a career in **Machine Learning and AI engineering**. My interest in the field started with how software can learn from data and interact with the physical world, which is also what draws me to **Robotics**.
+
+Right now I'm building my foundation in **Python**, with **Git** and **Linux** as my everyday tools. My plan is to move into backend development and then into machine learning, and to build projects along the way that show what I can do.
+
+I'm open to learning opportunities, collaboration, and entry-level roles. You're welcome to reach out.
 
 <div align="center">
 
