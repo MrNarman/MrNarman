@@ -1,73 +1,46 @@
-## 🐉 Fire and Code.
+## 👋 Hi, I'm Godrick Narman
+
 ![mrnarman.png](mrnarman.jpeg)
 
-<div align="center">
+I'm passionate about **Robotics**, **Artificial Intelligence**, and **Machine Learning**. I enjoy using code to solve problems and build useful things.
 
-### 🔥 House Narman — *"Fire and Code"* 🔥
-</div>
+> 🚀 Innovation is my playground.
+> 🧠 Intelligence is my weapon.
+> 🛡️ Purpose is my guide.
 
-I am **Godrick Narman** — of the blood of the dragon, heir to the old Valyrian crafts of **Robotics**, **Artificial Intelligence**, and **Machine Learning**.
+---
 
-Dragons do not flatter their riders — they test them. So too does code test the coder. I have flown that fire, and I have not been burned.
-
-<div align="left">
-
-> 🐲 **Innovation** is my dragon's wing.  
-> 🔥 **Intelligence** is my fire made flesh.  
-> 👑 **Purpose** is my claim to the throne of clean code.  
->  
-> *Fire cannot kill a dragon, and bugs cannot kill my will to build.*
-
-</div>
-
-![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
-
-## 🏰 Dragonstone (Learning Stack)
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</div>
+---
 
-![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
+## 📫 Connect With Me
 
-## 🐦 Send a Raven (Summon Me)
+<a href="https://www.linkedin.com/in/godrick-mwani-856415262/"><img src="linkedin.png" alt="LinkedIn" /></a>
+<a href="https://twitter.com/MrNarman"><img src="Xtwitter.png" alt="Twitter" /></a>
+<a href="mailto:godricknarman21@gmail.com"><img src="gmail.png" alt="Email" /></a>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/godrick-mwani-856415262/"><img src="linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/MrNarman"><img src="Xtwitter.png" alt="Twitter" /></a>
-  <a href="mailto:godricknarman21@gmail.com"><img src="gmail.png" alt="Email" /></a>
-</div>
+---
 
-![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 📜 The Grand Maester's Ledger (GitHub Stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrNarman&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-🐦 *Ravens received:* ![visitors](https://komarev.com/ghpvc/?username=MrNarman&&style=flat-square)
-
-### 🏆 Trophies of the Realm
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-[![trophy](https://github-trophies.vercel.app/?username=MrNarman&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/lucthienphong1120/github-trophies)
-</div>
-
-![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
+![Profile views](https://komarev.com/ghpvc/?username=MrNarman&style=flat-square)
 
 ![GitHub Snake dark](https://github.com/MrNarman/MrNarman/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
-![Divider](https://readmeforge.natrajx.in/api/divider?metal=gold&style=ornate&width=1200&height=40)
+</div>
 
-## 🔮 Words of House Narman
-_"Fire and Code — for a dragon that does not fly is just a very large, very expensive lizard, and code that does not run is just a very long, very expensive text file."_
+---
 
+_"In the quest for balance within, we unlock the power to shape the extraordinary."_
